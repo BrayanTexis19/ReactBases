@@ -34,4 +34,4 @@ const getHeroeByAsync2 = async (id) =>{
     }
  }
 
-console.log(getHeroeByAsync2(1));
+console.log(getHeroeByAsync2(2));
